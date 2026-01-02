@@ -46,7 +46,7 @@ Even after long training runs, YOLO’s results looked crude. Sleeves were missi
 Mask R-CNN delivered much better results. On the validation set, our best runs reached ~0.49 AP for bounding boxes and ~0.56 AP for segmentation using COCO metrics. Visual inspection confirmed this: masks captured contours of shirts, skirts, and sleeves far more accurately.
 
 ### U-Net Outcomes
-We did not have final training results for U-Net at the time of writing this blog post.
+We did not have final training results for U-Net at the time of writing this post.
 
 ---
 
